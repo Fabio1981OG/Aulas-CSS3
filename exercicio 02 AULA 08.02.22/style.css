@@ -1,0 +1,62 @@
+*{
+    height: 100%;
+    margin:0;
+    text-shadow: justify;
+}
+.img1{
+    background-image: url(img/imagem01.jpg);
+}
+.img2{
+    background-image: url(img/imagem02.jpg);
+}
+.img3{
+    background-image: url(img/imagem03.jpg);
+}
+.img4{
+    background-image: url(img/imagem04.jpg);
+}
+.img5{
+    background-image: url(img/imagem05.jpg);
+}
+.img6{
+    background:  url(img/imagem06.jpg);
+}
+.img7{
+    background:  url(img/imagem07.jpg);
+}
+.img8{
+    background:  url(img/imagem08.jpg);
+}
+.ef1{
+    background: linear-gradient(to left, red 20%, blue 75%);
+}
+.ef2{
+    background: radial-gradient( black, yellow, green, red);
+}
+.ef3{
+    background: radial-gradient(green, red);
+}
+.ef4{
+    background: radial-gradient(green, yellow, blue, white);
+}
+.ef5{
+    background: linear-gradient(606deg, blue, yellow, red,  White);
+}
+.ef6{
+    background: linear-gradient(200deg, brown, black, red);
+}
+.ef7{
+    background: linear-gradient(108deg, salmon 70%, violet 80%);
+}
+.ef8{
+    background: linear-gradient(45deg, green 30%, red 62%, yellow 40%);
+}
+.gif1{
+    background: url(gif/gif\ \(2\).gif);
+}
+.gif2{
+    background-image: url(gif/gif\ \(3\).gif);
+}
+.gif3{
+    background-image: url(gif/gif\ \(5\).gif);
+}
