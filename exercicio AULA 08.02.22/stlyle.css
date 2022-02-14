@@ -1,0 +1,210 @@
+
+div{
+    display: inline-block;
+    text-align-last: right;   
+    margin: 10px 10px 10px 10px;             
+}
+body{
+    display: inline-block;
+    background:linear-gradient(green, yellow, blue, white);
+    }
+.Acre{
+	background-image: url(acre.jpg);
+    background-repeat: 100px;
+    Width: 275px;
+    height: 170px;
+    border-radius: 30px 0px 0px 0px;
+    border: solid 05px #000;
+    margin: 10px 10px;
+    }
+.Amapa{
+    background-image: url(amapa.jpg);
+    background-repeat: 100px;
+    Width: 275px;
+    height: 170px;
+    border: solid 5px #000;
+    margin: 10px 10px;
+    }
+.Amazonas{
+    background-image: url(amazonas.jpg);
+    background-repeat: 100px;
+    Width: 275px;
+    height: 170px;
+    border: solid 5px #000;
+    }
+.Pará{
+    background-image: url(para.jpg);
+    background-repeat: 100px;
+    Width: 275px;
+    height: 170px;
+    border-radius: 0px 30px 0px 0px;
+    border: solid 5px #000;
+    }
+.Rondônia{
+    background-image: url(rondonia.jpg);
+    background-repeat: 100px;
+    Width: 275px;
+    height: 170px;
+    border: solid 5px #000;}
+.Roraima{
+    background-image: url(Roraima.jpg);
+    background-repeat: 100px;
+    Width: 275px;
+    height: 170px;
+    border: solid 5px #000;
+    }
+.Tocantins{
+    background-image: url(tocantins.jpg);
+    background-repeat: 100px;
+    Width: 275px;
+    height: 170px;
+    border: solid 5px #000;
+    }
+.Maranhão{
+    background-image: url(maranhao.png);
+    background-repeat: 100px;
+    Width: 275px;
+    height: 170px;
+    border: solid 5px #000; 
+    }
+.Piauí{
+    background-image: url(piaui.png);
+    background-repeat: 100px;
+    Width: 275px;
+    height: 170px;
+    border: solid 5px #000;
+    }
+.Ceará{
+    background-image: url(ceara.png);
+    background-repeat: 100px;
+    Width: 275px;
+    height: 170px;
+    border: solid 5px #000;
+    }
+.Paraiba{
+    background-image: url(paraiba.jpg);
+    background-repeat: 100px;
+    Width: 275px;
+    height: 170px;
+    border: solid 5px #000;
+    }
+.RioGrandedoNorte{
+    background-image: url(riograndedonorte.jpg);
+    background-repeat: 100px;
+    Width: 275px;
+    height: 170px;
+    border: solid 5px #000;
+    }
+.Pernambuco{
+    background-image: url(pernambuco.png);
+    background-repeat: 100px;
+    Width: 275px;
+    height: 170px;
+    border: solid 5px #000;
+    }
+.Alagoas{
+    background-image: url(alagoas.png);
+    background-repeat: 100px;
+    Width: 275px;
+    height: 170px;
+    border: solid 5px #000;
+    }
+.Sergipe{
+    background-image: url(sergipe.jpg);
+    background-repeat: 100px;
+    Width: 275px;
+    height: 170px;
+    border: solid 5px #000;
+    }
+    .Bahia{
+    background-image: url(bahia.jpg);
+    background-repeat: 100px;
+    Width: 275px;
+    height: 170px;
+    border: solid 5px #000;
+    }
+    .SãoPaulo{
+    background-image: url(sao\ paulo.jpg);
+    background-repeat: 100px;    Width: 275px;
+    height: 170px;
+    border: solid 5px #000;
+}
+.MinasGerais{
+    background-image: url(minas.jpg);
+    background-repeat: 100px;
+    Width: 275px;
+    height: 170px;
+    border-top-right-radius: 0px 30px 0px 30px;
+    border: solid 5px #000;
+    }
+.RiodeJaneiro{
+    background-image: url(rj.jpg);
+    background-repeat: 100px;
+    Width: 275px;
+    height: 170px;
+    border-top-right-radius: 0px 30px 0px 30px;
+    border: solid 5px #000;
+    }
+.EspíritoSanto{
+    background-image: url(espiritosto.jpg);
+    background-repeat: 100px;
+    Width: 275px;
+    height: 170px;
+    border-top-right-radius: 0px 30px 0px 30px;
+    border: solid 5px #000;
+    }
+.DistritoFederal{
+    background-image: url(df.jpg);
+    background-repeat: 100px;
+    Width: 275px;
+    height: 170px;
+    border-top-right-radius: 0px 30px 0px 30px;
+    border: solid 5px #000;
+    }
+.Goiás{
+    background-image: url(goias.jpg);
+    background-repeat: 100px;
+    Width: 275px;
+    height: 170px;
+    border-top-right-radius: 0px 30px 0px 30px;
+    border: solid 5px #000;
+    }
+.MatoGrosso{
+    background-image: url(matogrosso.jpg);
+    background-repeat: 100px;
+    Width: 275px;
+    height: 170px;
+    border-top-right-radius: 0px 30px 0px 30px;
+    border: solid 5px #000;
+}
+.MatoGrossodoSul{
+    background-image: url(matogrossodosul.jpg);
+    background-repeat: 100px;
+    Width: 275px;
+    height: 170px;
+    border: solid 5px #000;
+    border-radius: 0px 0px 30px 0px;
+    }
+.RioGrandedoSul{
+    background-image: url(matogrossodosul.jpg);
+    background-repeat: 100px;
+    Width: 275px;
+    height: 170px;
+    border: solid 5px #000;
+    border-radius: 0px 0px 0px 30px;    
+    }
+.SantaCatarina{
+    background-image: url(santa\ catarina.jpg);
+    background-repeat: 100px;
+    Width: 275px;
+    height: 170px;
+    border: solid 5px #000;
+    }
+.Paraná{
+    background-image: url(parana.png);
+    background-repeat: 100px;
+    Width: 275px;
+    height: 170px;
+    border-radius: 0px 0px 30px 0px;
+    border: solid 5px #000;
+    }
