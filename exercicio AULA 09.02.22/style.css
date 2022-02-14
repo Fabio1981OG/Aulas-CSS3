@@ -1,0 +1,24 @@
+body{
+    margin: 50px;
+    padding: 0;
+    }
+.container{
+    width: 100%;
+    margin-bottom: 30px;
+    display: flex;
+    }
+.pqn{
+    flex-grow: 1;
+    }
+.grande{
+    flex-grow: 2;
+    }
+.item{
+    height: 190px;
+    box-shadow: -15px 15px rgb(204, 72, 72);
+    border: 2px solid rgb(139, 4, 4);
+    -webkit-box-orient: -5px 10px rgb(161, 45, 45);
+
+    margin: 19px;
+    display: inline-flex;
+    }
