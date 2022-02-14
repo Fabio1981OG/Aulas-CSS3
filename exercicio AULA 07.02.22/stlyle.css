@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(185, 182, 178);
+    text-align: center;
+    font-family: rgb;    
+}
+fieldset{
+    border: 10px white solid;
+}
+.a1{
+    color: white;
+    }
+.a2{
+    background-color: green;
+    border:40px red solid;
+    height: 120px;
+    margin-top: 111px;
+    padding: 0px;
+    width: 1215px;
+}
+.a3{
+    background-color: green;
+    border:40px red solid;
+    height: 120px;
+    margin-top: -20px;
+    padding: 0px;
+    width: 1215px;
+}
+footer{
+    background-color: rgb(185, 182, 178);
+    color: white;
+    margin: -10px;
+    text-align: -webkit-match-parent;
+}
